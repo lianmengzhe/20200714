@@ -35,7 +35,7 @@ toggleBlock()
             topTip[i].style.color = "#fff";
             bottomClock[i].style.display = "block";
             i++;
-    },1000)
+    },5000)
 
 
 
