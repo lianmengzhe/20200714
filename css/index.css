@@ -560,9 +560,9 @@ main{
     width: 200px;
     height: 200px;
 }
-.goods-content-right .market-container .head-inner:hover{
+.goods-content-right .market-container .active{
     color:#fff;
-    background-color: #00B262;
+    background-color: #00b262;
 }
 .goods-content-right .market-container .inner-title{
     position: absolute;
